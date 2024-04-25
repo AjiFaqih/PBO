@@ -219,7 +219,6 @@ final class Arabica extends BeansKopi {
 
     @Override
     public final void setJenisRobusta() {
-        // Kosong karena jenis Arabica tidak dapat diubah menjadi Robusta
     }
 }
 
@@ -231,7 +230,6 @@ final class Robusta extends BeansKopi {
 
     @Override
     public final void setJenisArabica() {
-        // Kosong karena jenis Robusta tidak dapat diubah menjadi Arabica
     }
 
     @Override
